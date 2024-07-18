@@ -1,5 +1,9 @@
+#! /bin/bash
+
+# Install zsh and oh-my-zsh first
+
 # Yenoch zsh shell oh-my-zsh settings
-# install zsh and oh-my-zsh first
+
 
 cp .zshrc ~
 
